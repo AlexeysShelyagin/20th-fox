@@ -1,0 +1,25 @@
+When rendered, these blender files will use 100% of your CPU power to compute the frames.
+You will see every single frame being put together. This can take many hours and your use of the computer will be limited!
+I recommend leaving it over night or when you are doing something else anyway.
+ 
+
+WARNING WARNING WARNING WARNING
+"20th Century Fox 2009" and "20th Century Fox Searchlight" and very complex and require 1-2 days of rendering on a good CPU.
+"20th Century Fox Template" and "20th Century Fox Template 2" "only" require 5-6 hours of rendering on a good CPU.
+
+
+FIX flickering: http://www.youtube.com/watch?v=8l1BkEqSp74
+
+PAUSING the render:
+To pause the blender render, click Help, then Toggle System Console. 
+Then press the pause (or break) key on your keyboard. 
+To resume, hit enter. Do NOT shutdown your computer or close the program. 
+Leave it open, and you can put the computer to sleep and resume afterwards.
+
+
+DEFINITION of a good CPU:
+- Quad core 4x3GHz or better
+- NOT a notebook processor
+
+SAVING:
+By default the file is saved in this folder (the same as the template files) and is called 0001-0600.avi.
